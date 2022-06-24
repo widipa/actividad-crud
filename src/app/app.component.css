@@ -1,0 +1,21 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+}
+
+.box-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.box-left {
+  width: 20%;
+}
+.box-main {
+  width: 60%;
+}
+.box-right {
+  width: 20%;
+}
